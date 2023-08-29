@@ -17,5 +17,6 @@ Ich möchte mich in C# verbessern indem ich während dem Modul mir mühe gebe ab
 
 Bemerkungen:
 Ich habe während dem Implementieren viel bessere Ideen gehabt und meine Ziele geändert.
+Ich habe begonnen ein Fragenquiz zu Programmieren und lerne jetzt mit einer Liste alle Fragen und Antworten (je eine Liste für beides) reinzuschreiben von welchen das Programm die Informationen nimmt. Dazu habe ich programiert das pro richtige Antwort man ein Punkt bekommt
 
 
