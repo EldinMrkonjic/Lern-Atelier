@@ -17,6 +17,10 @@ Ich möchte mich in C# verbessern indem ich während dem Modul mir mühe gebe ab
 
 Bemerkungen:
 Ich habe während dem Implementieren viel bessere Ideen gehabt und meine Ziele geändert.
-Ich habe begonnen ein Fragenquiz zu Programmieren und lerne jetzt mit einer Liste alle Fragen und Antworten (je eine Liste für beides) reinzuschreiben von welchen das Programm die Informationen nimmt. Dazu habe ich programiert das pro richtige Antwort man ein Punkt bekommt
+Ich habe begonnen ein Fragenquiz zu Programmieren und lerne jetzt mit einer Liste alle Fragen und Antworten (je eine Liste für beides) reinzuschreiben von welchen das Programm die Informationen nimmt. Dazu habe ich programiert das pro richtige Antwort man ein Punkt bekommt. Dazu habe ich mir gute Ideen für das nächste mal einfallen Lassen, siehe Planung unten
 
+## Meine Planung Bzw Arbeitspakete für den 05.09.2023
+- [ ] Lernen wie man Listen richtig schreibt
+- [ ] Lernen wie man die Listen abrufbar für mein Programm macht
+- [ ] Mein Program weitgehend fertigstellen
 
