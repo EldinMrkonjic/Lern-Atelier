@@ -15,7 +15,7 @@ Ich möchte mich in C# verbessern indem ich während dem Modul mir mühe gebe ab
 - [ ] Ein Programm, welches dem Benutzer die erste Frage stellt und 3 Antwortmöglichkeiten 
 - [ ] Ein Programm, welches dem Benutzer die Antwort ausgibt
 
-
-|
+Bemerkungen:
+Ich habe während dem Implementieren viel bessere Ideen gehabt und meine Ziele geändert.
 
 
