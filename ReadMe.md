@@ -24,4 +24,3 @@ Ich habe begonnen ein Fragenquiz zu Programmieren und lerne jetzt mit einer List
 - [x] Lernen wie man die Listen abrufbar für mein Programm macht
 - [x] Mein Program weitgehend fertigstellen
 
-[Quiz.zip](https://github.com/EldinMrkonjic/Lern-Atelier/files/12520641/Quiz.zip)
