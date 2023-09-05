@@ -24,3 +24,10 @@ Ich habe begonnen ein Fragenquiz zu Programmieren und lerne jetzt mit einer List
 - [x] Lernen wie man die Listen abrufbar für mein Programm macht
 - [x] Mein Program weitgehend fertigstellen
 
+Bemerkungen:
+Ich habe mithilfe von ChatGpt und W3Schools gelernt wie man ein dictionary macht. In dem Dictionary habe ich dann die richtigen Antworten in eine Liste und die Fragen in eine Geschrieben. Immer wieder gab es fehler im Code denn ich mit gründlichem durchgehen des Codes gefunden und behoben zu neunzig Prozent, konnte ich die Fehler selber fixen und beim Rest hat ChatGpt geholfen. Ich konnte mein Projekt erfolgreich abschliessen und habe mir in der restlichen Zeit überlegt was ich als nächstes machen könnte und kam mit Sinan zur Idee ein Projekt gemeinsam zu programmieren. (Mein Projekt ist als ZIP-Datei im Anhang oben :])
+
+## Meine Planung Bzw Arbeitspakete für den 12.09.2023
+- [ ] Neues Partnerprojekt mit Sinan überlegen 20'
+- [ ] Projekt koordinieren ( Aufteilung ) 40'
+- [ ]  Mit dem jeweiligen Projekteil beginnen zu programmieren Rest der Stunde
