@@ -33,10 +33,10 @@ Ich habe mithilfe von ChatGpt und W3Schools gelernt wie man ein dictionary macht
 - [x]  Mit dem jeweiligen Projekteil beginnen zu programmieren Rest der Stunde
 
 
-##reflexion 12.9
+## Reflexion 12.9
 Wir haben mit einem kleinen Storyspiel begonnen wo man mit der geschichte interagieren kann. Bsp was willst du rechts doer links abbiegen. je nach antwort geht die Gechichte anders weiter. Das Ziel ist es mehrere Sackgassen einzubauen und das ganze möglichst komplex zu  gestalten
 
-##Arbeitpaket 19.9
+## Arbeitpaket 19.9
 - [ ] 5 mal die geschichte erweitern bis zum 1sten Ende
 - [ ] Einen Weiteren geschichtsteil beginnen
 - [ ] 2 Sackgassen einbauen
