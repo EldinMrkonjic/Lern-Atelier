@@ -37,6 +37,14 @@ Ich habe mithilfe von ChatGpt und W3Schools gelernt wie man ein dictionary macht
 Wir haben mit einem kleinen Storyspiel begonnen wo man mit der geschichte interagieren kann. Bsp was willst du rechts doer links abbiegen. je nach antwort geht die Gechichte anders weiter. Das Ziel ist es mehrere Sackgassen einzubauen und das ganze möglichst komplex zu  gestalten
 
 ## Arbeitpaket 19.9
-- [ ] 5 mal die geschichte erweitern bis zum 1sten Ende
-- [ ] Einen Weiteren geschichtsteil beginnen
-- [ ] 2 Sackgassen einbauen
+- [x] 5 mal die geschichte erweitern bis zum 1sten Ende
+- [x] Einen Weiteren geschichtsteil beginnen
+- [x] 2 Sackgassen einbauen
+
+## Reflexion 19.09
+Leider habe ich heute nicht so effektiv arbeiten können. Dies könnte einerseits an meinem Schlafmangel liegen da wir am Montag einen Franztest hatten, aber auch daran das ich allgemein relativ gestresst bin. Aber nächste Woche wird es bestimmt besser da ich mehr Wert auf meinen Schlaf lege.
+
+## Arbeitspaket 26.09
+- [ ] 2 mehr Switch-Cases einbauen
+- [ ] etwas randomizen (glück einbauen)
+- [ ] Einmal Tom gewinnen lassen (mehr Humor einbauen)
