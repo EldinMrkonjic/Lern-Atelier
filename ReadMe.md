@@ -52,5 +52,5 @@ Leider habe ich heute nicht so effektiv arbeiten können. Dies könnte einerseit
 ## Reflexion 26.09
 Ich habe zuerst den Plan bzw. die Ziele für heute geändert, da ich realisiert habe das ich meine Kentnisse im Programmieren weiter übern und ausbauen muss um grössere und anspruchsvollere Projekte in Angriff nehmen zu können.
 
-##Reflexion
+## Reflexion
 Ich habe gemerkt das ich unbedingt einen fixen Plan für die aktuelle Woche machen sollte, so kann ich viel Leichter und Effizienter anfangen zu arbeiten. Oft passiert es, dass ich durch jemanden neben mir oder von einer unnötigen Nachricht abgelenkt werde. Deshalb habe ich nach einem guten Wochenplaner bzw. Kalender gesucht und bin schlussendlich auf Notion gestossen. Aber Notion allein war nicht das Ware und habe nach kurzer Suche ein perfektes Template gefunden die für jeden Tag und jede Stunde, die ich habe, ein eigenes Feld hat und mich so alles nach belieben planen lässt. Dazu verfügt Notion über intelligente Funktionen und eine eingebaute Ai die Aufgaben für mich übernehmen kann. Ich bin zuversichtlich das ich meine Arbeitsqualität enorm steigern kann.
