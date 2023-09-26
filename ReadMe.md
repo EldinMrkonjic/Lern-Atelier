@@ -45,6 +45,9 @@ Wir haben mit einem kleinen Storyspiel begonnen wo man mit der geschichte intera
 Leider habe ich heute nicht so effektiv arbeiten können. Dies könnte einerseits an meinem Schlafmangel liegen da wir am Montag einen Franztest hatten, aber auch daran das ich allgemein relativ gestresst bin. Aber nächste Woche wird es bestimmt besser da ich mehr Wert auf meinen Schlaf lege.
 
 ## Arbeitspaket 26.09
-- [ ] 2 mehr Switch-Cases einbauen
-- [ ] etwas randomizen (glück einbauen)
-- [ ] Einmal Tom gewinnen lassen (mehr Humor einbauen)
+- [x] Üben für Modul 319
+- [x] 1 Youtube Video dazu anschauen
+- [x] Anfangen ein Taschenrechner programmieren
+
+## Reflexion 
+Ich habe zuerst den Plan bzw. die Ziele für heute geändert, da ich realisiert habe das ich meine Kentnisse im Programmieren weiter übern und ausbauen muss um ##gn
